@@ -2,6 +2,7 @@ A repository to store miscellaneous work or tests related to Artificial Neural N
 
 # Description of the files and folders in repository:
 
+### speed_tester.py
 
 A program that creates, trains and evaluates different ANNs and CNNs on the MNIST data.  This was made to check how computational times differ between different devices (e.g. my desktop CPU and my cousins GPU).
 
